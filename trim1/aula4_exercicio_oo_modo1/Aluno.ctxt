@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Crie\ uma\ classe\ aluno\r\n\ Crie\ os\ atributos\r\n\ \ Nome\ completo\ String\r\n\ \ Matricula\ -\ int\r\n\ \ Notas\ [5]\ -\ double\r\n\ Crie\ os\ m\u00E9todos\r\n\ \ Altera\ nome\r\n\ \ Adiciona\ nota\ (caso\ j\u00E1\ adicionou\ todas\ as\ notas\ exiba\ uma\ mensagem\ de\ erro)\r\n\ \ Altera\ matricula\r\n\ \ Calcula\ a\ m\u00E9dia\r\n
+comment1.params=novoNome
+comment1.target=void\ alterarNome(java.lang.String)
+comment2.params=novaNota
+comment2.target=void\ adicionarNota(double)
+comment3.params=novaMatricula
+comment3.target=void\ alterarMatricula(int)
+comment4.params=
+comment4.target=void\ calcularMedia()
+numComments=5

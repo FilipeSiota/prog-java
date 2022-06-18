@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Lampada
+comment0.text=\r\n\ 4.\ Escreva\ um\ construtor\ para\ a\ classe\ Lampada\ de\ forma\ que\ inst\u00E2ncias\ desta\ s\u00F3\ possam\ ser\ criadas\ se\ um\ estado\ inicial\ for\ passado\ para\ o\ construtor.\r\n\ Esse\ estado\ pode\ ser\ o\ valor\ booleano\ que\ indica\ se\ a\ l\u00E2mpada\ est\u00E1\ acesa\ (true)\ ou\ apagada\ (false).\r\n\ Crie\ o\ m\u00E9todo\ interruptor\ para\ trocar\ o\ estado\ e\ dizer\ se\ a\ l\u00E2mpada\ est\u00E1\ acesa\ ou\ apagada.\r\n\ Crie\ um\ m\u00E9todo\ que\ exiba\ se\ a\ mesma\ est\u00E1\ acesa\ ou\ apagada.\r\n
+comment1.params=ligada
+comment1.target=Lampada(boolean)
+comment2.params=ligada
+comment2.target=void\ setLampadaLigada(boolean)
+comment3.params=
+comment3.target=boolean\ getLampadaLigada()
+comment4.params=
+comment4.target=void\ interruptor()
+comment5.params=
+comment5.target=void\ verificarEstadoLampada()
+numComments=6

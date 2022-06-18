@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Validator
+comment1.params=nome
+comment1.target=boolean\ validaNome(java.lang.String)
+comment2.params=telefone
+comment2.target=boolean\ validaTelefone(java.lang.String)
+comment3.params=email
+comment3.target=boolean\ validaEmail(java.lang.String)
+comment4.params=descricao
+comment4.target=boolean\ possuiDescricao(java.lang.String)
+numComments=5

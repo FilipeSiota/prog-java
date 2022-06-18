@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lampada
+comment0.text=\r\n\ 5.\ Considere\ a\ classe\ Lampada\ que\ tamb\u00E9m\ representa\ o\ n\u00FAmero\ de\ watts\ da\ l\u00E2mpada\ (veja\ o\ exerc\u00EDcio\ 4).\r\n\ Escreva\ dois\ construtores\ para\ a\ classe\:\ um\ que\ recebe\ como\ argumentos\ o\ n\u00FAmero\ de\ watts\ da\ l\u00E2mpada,\r\n\ e\ outro,\ sem\ argumentos,\ que\ considera\ que\ a\ l\u00E2mpada\ tem\ 60\ watts\ por\ default.\r\n
+comment1.params=ligada\ potenciaEmWatts
+comment1.target=Lampada(boolean,\ int)
+comment2.params=ligada
+comment2.target=Lampada(boolean)
+comment3.params=ligada
+comment3.target=void\ setLampadaLigada(boolean)
+comment4.params=
+comment4.target=boolean\ getLampadaLigada()
+comment5.params=
+comment5.target=void\ interruptor()
+comment6.params=
+comment6.target=void\ verificarEstadoLampada()
+numComments=7

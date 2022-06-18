@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Data
+comment0.text=\ \r\n\ 7.\ Escreva\ outro\ construtor\ para\ a\ classe\ Data\ (exe1)\ que\ receba\ uma\ inst\u00E2ncia\ da\ pr\u00F3pria\ classe\ Data\ e\ use\ os\ dados\ desta\ para\ inicializar\ os\ campos\r\n
+comment1.params=dia\ mes\ ano
+comment1.target=Data(int,\ int,\ int)
+comment10.params=dia\ mes\ ano
+comment10.target=void\ setData(int,\ int,\ int)
+comment11.params=
+comment11.target=void\ verData()
+comment2.params=data
+comment2.target=Data(Data)
+comment3.params=dia
+comment3.target=void\ setDia(int)
+comment4.params=
+comment4.target=int\ getDia()
+comment5.params=mes
+comment5.target=void\ setMes(int)
+comment6.params=
+comment6.target=int\ getMes()
+comment7.params=ano
+comment7.target=void\ setAno(int)
+comment8.params=
+comment8.target=int\ getAno()
+comment9.params=dia\ mes\ ano\ separador
+comment9.target=java.lang.String\ formatarData(int,\ int,\ int,\ char)
+numComments=12

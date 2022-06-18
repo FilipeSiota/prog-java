@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestaProduto
+comment0.text=\r\n\ 9.\ Transforme\ a\ classe\ produto\ para\ que\ possua\ setters\ fluentes.\r\n\ Crie\ uma\ classe\ TestaProduto\ mostrando\ o\ funcionamento\ do\ setter\ fluente\ com\ desconto\ de\ 10%\ e\ 12\ parcelas.\r\n
+comment1.params=produto
+comment1.target=TestaProduto(Produto)
+numComments=2

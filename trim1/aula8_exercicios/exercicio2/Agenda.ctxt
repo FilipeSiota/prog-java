@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=nome\ descricao\ contato
+comment1.target=Agenda(java.lang.String,\ java.lang.String,\ Contato)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=descricao
+comment4.target=void\ setDescricao(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDescricao()
+comment6.params=contato
+comment6.target=void\ addContato(Contato)
+comment7.params=contato
+comment7.target=void\ removeContato(Contato)
+comment8.params=telefone
+comment8.target=Contato\ getContato(java.lang.String)
+comment9.params=
+comment9.target=void\ listarContatos()
+numComments=10
