@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Concerto
+comment1.params=
+comment1.target=Concerto()
+comment2.params=
+comment2.target=void\ setDescricao()
+comment3.params=
+comment3.target=java.lang.String\ getDescricao()
+comment4.params=
+comment4.target=void\ addPeca()
+comment4.text=\r\n\ method\ split()\r\n\ @link\ https\://www.alura.com.br/artigos/como-separar-palavras-de-string-em-java\r\n
+comment5.params=printOnScreen
+comment5.target=java.lang.String\ getPecas(boolean)
+comment6.params=
+comment6.target=void\ setCusto()
+comment7.params=
+comment7.target=double\ getCusto()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

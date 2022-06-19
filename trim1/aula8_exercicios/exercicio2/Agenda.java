@@ -1,6 +1,6 @@
 package exercicio2;
 import java.util.*;
-import validation.Validator;
+import util.Validator;
 
 public class Agenda
 {

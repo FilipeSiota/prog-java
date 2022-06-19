@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Temporada
+comment1.params=numeroTemporada\ nome\ episodio
+comment1.target=Temporada(int,\ java.lang.String,\ Episodio)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=numeroTemporada
+comment2.target=void\ setNumeroTemporada(int)
+comment3.params=
+comment3.target=int\ getNumeroTemporada()
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=episodio
+comment6.target=void\ addEpisodio(Episodio)
+comment7.params=printOnScreen
+comment7.target=java.lang.String\ getEpisodios(boolean)
+comment8.params=
+comment8.target=void\ setNumeroDeEpisodios()
+comment9.params=
+comment9.target=int\ getNumeroDeEpisodios()
+numComments=11

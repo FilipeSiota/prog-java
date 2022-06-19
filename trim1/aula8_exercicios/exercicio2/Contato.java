@@ -1,12 +1,14 @@
 package exercicio2;
 import java.util.*;
-import validation.Validator;
+import util.Validator;
+import util.Formatter;
 
 public class Contato
 {
     private String nome, email;
     private ArrayList<String> telefones = new ArrayList<String>();
     private Validator validator = new Validator();
+    private Formatter formatter = new Formatter();
     
     public Contato(String nome, String email, String telefone)
     {
@@ -59,7 +61,7 @@ public class Contato
     
         for(int i = 0; i < this.telefones.size(); i++)
         {
-            telefones += "\t" + this.telefones.get(i) + "\n";
+            telefones += "\t" + formatter.formataTelefone(this.telefones.get(i)) + "\n";
         }
         
         return telefones;
@@ -76,15 +78,6 @@ public class Contato
     public String getEmail()
     {
         return this.email;
-    }
-    
-    private String formatarTelefone(String telefone)
-    {
-        String telefoneFormatado;
-        
-        telefoneFormatado = "(" + telefone.substring(0, 2) + ") " + telefone.charAt(2) + " " + telefone.substring(3, 7) + "-" + telefone.substring(7, 11);
-        
-        return telefoneFormatado;
     }
     
     public void listarTelefones()

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lancamentos
+comment1.params=filme
+comment1.target=void\ addFilme(Filme)
+comment2.params=printOnScreen
+comment2.target=java.lang.String\ getFilmes(boolean)
+comment3.params=serie
+comment3.target=void\ addSerie(Serie)
+comment4.params=printOnScreen
+comment4.target=java.lang.String\ getSeries(boolean)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
